@@ -38,7 +38,7 @@ pip install torch==2.3 torchvision==0.18 numpy==2.0 lime
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/Explainable-AI-Techniques.git
+git clone https://github.com/osama-shawir/Explainable-AI-Techniques.git
 cd Explainable-AI-Techniques
 ```
 
